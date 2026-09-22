@@ -1,6 +1,6 @@
 # Marketplace-arquitSoft-02-GabrielaRodrigo
 ## Integrante
-Gabriela Rodrigo
+Gabriela Ana Rodrigo Cutipa
 ## Descripción
 Marketplace académico de productos para mascotas.
 ## Caso de estudio
