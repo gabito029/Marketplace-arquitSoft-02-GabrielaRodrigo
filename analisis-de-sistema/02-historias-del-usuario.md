@@ -1,4 +1,3 @@
-### Ejemplos:
 
 | ID | Historia de usuario |
 | :--- | :--- |
